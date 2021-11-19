@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Admin\OneDrive - Prod Student NU\Desktop\CISS243 SHIT\ASSIGNMENT7\assignment73\Source.cpp(51,11): error C2664: 'bool BinaryTree<EmployeeInfo>::searchNode(T)': cannot convert argument 1 from 'std::string' to 'T'
+          with
+          [
+              T=EmployeeInfo
+          ]
+C:\Users\Admin\OneDrive - Prod Student NU\Desktop\CISS243 SHIT\ASSIGNMENT7\assignment73\Source.cpp(51,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\Admin\OneDrive - Prod Student NU\Desktop\CISS243 SHIT\ASSIGNMENT7\assignment73\BinaryTree.h(38,7): message : see declaration of 'BinaryTree<EmployeeInfo>::searchNode'
